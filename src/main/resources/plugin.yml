@@ -1,0 +1,4 @@
+name: QuarzCraft
+version: '${project.version}'
+main: com.youat0m.quarz.QuarzCraft
+api-version: '1.20'
